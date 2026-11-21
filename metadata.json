@@ -1,0 +1,6 @@
+{
+  "name": "Veltrix Quant",
+  "description": "Veltrix Quant — Institutional USDT BEP20 Quantitative Signal Execution, Treasury & Team Performance Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
